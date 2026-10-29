@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Flackle PoC",
+    "slug": "flackle-mobile-poc",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.example.flacklepoc",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.example.flacklepoc"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "58e77bcc-8462-410d-980d-bfcb7513295c"
+      }
+    }
+  }
+}
